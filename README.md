@@ -1,5 +1,5 @@
 ## CRopt (CNN-RNN based codon optmization)  
-This is codon optimization tool based on CNN-RNN model. The architecture can be used for any genome with little bit of expermenting epochs, here we have given pre-trained model for ecoli k-12 genome. 
+This is codon optimization tool based on CNN-RNN model. We have provided pre-trained model for ecoli k-12 genome (under models folder).  
 
 # usage  
 Run CRopt.ipynb for Codon optimization under tools folder. 
